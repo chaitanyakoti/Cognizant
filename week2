@@ -1,0 +1,140 @@
+WEEK#2
+ 
+ 
+
+ 
+
+
+✦ ServiceNow Admin Training Overview  
+✦ ServiceNow is an automation platform for automating business processes  
+✦ ServiceNow Admin features and applications  
+✦ Service portal features and supported authentication options in ServiceNow  
+✦ Understanding user details and out-of-the-box groups in ServiceNow  
+✦ Roles in ServiceNow system  
+✦ Introduction to self-service users and user impersonation in ServiceNow  
+✦ Impersonating users in ServiceNow for different access levels  
+✦ ServiceNow UI 15 and UI 16  
+✦ Understanding the Application Navigator in ServiceNow  
+✦ ServiceNow user interface overview  
+✦ Managing application favorites and history in ServiceNow  
+✦ Customizing banner image and branding in ServiceNow  
+✦ Learn about configuring welcome page settings  
+✦ Filtering and visualizing data in ServiceNow  
+✦ How to change the filter and list control options in ServiceNow incidents list  
+✦ Understanding views, filters, and sharing in ServiceNow administration  
+✦ Saving and applying filters  
+✦ ServiceNow Admin: Customizing List Views  
+✦ List control and management options  
+✦ ServiceNow administration involves personalizing list views and form displays  
+✦ Understanding form elements and functionalities in ServiceNow  
+✦ Forms in ServiceNow can have choice and reference fields  
+✦ Understanding form reloading and activity stream in ServiceNow Administration  
+✦ Configuring form layout options  
+✦ Creating and configuring fields in ServiceNow  
+✦ Utilizing form layout and related list configuration in ServiceNow Admin  
+✦ List layout configuration and template creation in ServiceNow  
+✦ ServiceNow Admin Full Course - Key Points on Task Management  
+✦ Understanding task assignment and management in ServiceNow  
+✦ Key points on task assignment and service level agreement in ServiceNow administration  
+✦ Exploring the task table and its extensions  
+✦ ServiceNow Administration includes various tables and related functionalities  
+✦ Configuring and managing SLAs and approvals in ServiceNow  
+✦ Assignment group and assigned to can be assigned automatically or manually based on conditions and access rights  
+✦ ServiceNow Admin can assign incident manually as an idle user and use assignment rules to automate assignments  
+✦ Predictive intelligence in ServiceNow  
+✦ ServiceNow Service Desk Application  
+✦ Email functionality and activity stream in ServiceNow  
+✦ ServiceNow Admin: Understanding Work Notes and Additional Comments  
+✦ ServiceNow platform sends notifications to users on different events  
+✦ The email section contains modules for digest intervals, notifications, email scripts, and notification categories  
+✦ Configuring and managing notifications in ServiceNow  
+✦ ServiceNow notification categories and sections  
+✦ Creating and customizing notifications in ServiceNow  
+✦ ServiceNow notification configuration  
+✦ Handling priority changes and notifications in ServiceNow administration  
+✦ Understanding the components of an email notification in ServiceNow  
+✦ Configuring when to run and action to be performed in ServiceNow Admin  
+✦ Configuring Inbound Actions in ServiceNow  
+✦ Users have access to specific knowledge bases and articles based on their access level  
+✦ Knowledge article creation and management  
+✦ ServiceNow Administration includes feedback submission and knowledge base administration  
+✦ ServiceNow allows users to contribute, create, and edit articles with specific criteria for user selection  
+✦ The portal page is the main entry point for ServiceNow instance users  
+✦ Article creation process and options  
+✦ Understanding roles and workflows in knowledge management application  
+✦ Customizable approval workflows and article publishing in ServiceNow  
+✦ Importing and creating articles in ServiceNow  
+✦ Understanding the difference between viewing an article with or without attachments  
+✦ Service catalog in ServiceNow  
+✦ ServiceNow has a service catalog application to manage different products and services  
+✦ Service catalog categories help in organizing and managing services and products  
+✦ Service catalog and catalog items  
+✦ Different roles for managing and configuring service catalog in ServiceNow  
+✦ Service catalog has three major components  
+✦ ServiceNow Flow Designer simplifies workflow creation  
+✦ Configuring various item details in ServiceNow Administration  
+✦ ServiceNow Admin: Catalog item and Order Guide overview  
+✦ Understanding catalog items and order guide in ServiceNow Admin  
+✦ Service catalog record producer is used to process incidents with mandatory fields  
+✦ Customizing and attaching workflows to catalog items  
+✦ Ordering items and approval workflow in ServiceNow  
+✦ Explaining the stages and process of request fulfillment in ServiceNow  
+✦ Creating catalog, category, and catalog item in ServiceNow  
+✦ Creating and configuring variables and variable sets  
+✦ ServiceNow data is structured with tables, records, and fields  
+✦ The video discusses table records, columns, and indexing  
+✦ ServiceNow view customization and field configuration  
+✦ Understanding Table Relationships in ServiceNow  
+✦ ServiceNow Admin Full Course Summary  
+✦ Understanding base tables and core tables in ServiceNow  
+✦ Role-specific access control for tables  
+✦ Extending tables in ServiceNow  
+✦ Understanding tables and access control in ServiceNow  
+✦ Access control and security in ServiceNow  
+✦ Configuring high-level security permissions and access control in ServiceNow  
+✦ Understanding the admin override checkbox  
+✦ Access control List (ACL) in ServiceNow  
+✦ Understanding how ACL works in ServiceNow  
+✦ Elevate role to edit existing rules and create new ACLs  
+✦ Creating ACLs for table access  
+✦ Creating and testing ACL in ServiceNow  
+✦ Accessing and managing table records through roles and permissions  
+✦ ACLs provide powerful security rules  
+✦ Different ways to import data into ServiceNow  
+✦ Using transformation maps and importing data in ServiceNow  
+✦ Export and edit incident records in XML format  
+✦ Introduction to system import sets and its modules  
+✦ ServiceNow can directly connect to LDAP as a data source  
+✦ Import log and import sets table in ServiceNow Administration  
+✦ Importing data into ServiceNow using an example in Excel format  
+✦ Providing a demo for importing a file from the local system  
+✦ Understanding data import and mapping in ServiceNow Admin  
+✦ Importing and updating records in ServiceNow  
+✦ Understand how to match and update data during import  
+✦ Updating records with import sets in ServiceNow  
+✦ Data policy can enforce mandatory checks on fields  
+✦ Learning about coalesce fields for inserting records  
+✦ Utilizing data policy for importing data  
+✦ ServiceNow Admin - Configuration Management Database (CMDB)  
+✦ Understanding CMDB table hierarchy and usage in ServiceNow  
+✦ Utilizing and understanding CMDB usage in ServiceNow  
+✦ Utilizing configuration items for automatic routing of incidents  
+✦ Dashboard view provides detailed information about the health and relationships of the configuration items  
+✦ Adding and managing relationships in ServiceNow  
+✦ Understanding server relationships and dependencies  
+✦ ServiceNow CMDB is a powerful application for issue resolution  
+✦ Import set and field mapping  
+✦ CMDB classes categorize configuration items  
+✦ ServiceNow allows capturing and replicating changes between instances  
+✦ ServiceNow Admin Full Course Summary  
+✦ Changes need to be tested in lower instance before moving to production  
+✦ Some items in ServiceNow cannot be captured in update sets  
+✦ Proper handling of update sets in ServiceNow Administration  
+✦ Update set promotion process  
+✦ Using gs.eventQueue to generate events and notifications  
+✦ Event registry captures and tracks events triggered in the system  
+✦ Stats page for troubleshooting and instance information  
+
+
+ 
+
